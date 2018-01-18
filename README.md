@@ -45,3 +45,6 @@ What types of careers are there in Computer Science?
 ## Transfer Information
 
 * [Washington Direct Transfer Agreement: Computer Science](http://www.wsac.wa.gov/sites/default/files/CS.DTA.pdf)
+* [University of Washington's Course Equivalency Guide](http://admit.washington.edu/apply/transfer/tools/equivalency-guide/)
+* [UW-Bothell's Course Equivalency Guide](https://www.uwb.edu/bscsse/admissions/transfer/cc-equivalency)
+* [UW-Tacoma's Course Equivalency Guide](http://www.tacoma.uw.edu/admissions/course-equivalency-guide-transfer-students)\
